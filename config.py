@@ -7,7 +7,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 API_ID = int(os.environ.get("API_ID", "21702672"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "7898395945:AAH4PW9B_wwbVsZYUNSedwJYKZJiRHo7N1s")
+API_HASH = os.environ.get("API_HASH", "9ef8c573a89dc23477b8709741e6b520")
 
 # Your Owner / Admin Id For Broadcast 
 ADMINS = int(os.environ.get("ADMINS", "5390185534"))
